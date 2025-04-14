@@ -1,7 +1,7 @@
 # Private Set Intersection
 
 ## Installation requirement
-All library and module that the programs need are in the file requirement.txt. For installing all dependancies run pip install requirement.txt.
+The file requirement.txt contains all the libraries and modules that the programs need. To install all dependencies, run pip install requirement.txt.
 
 ## Utilisation
-For using this rogram you must run the two file in two terminals. First execute in one terminal the file Alice.py and after execute Bob.py in the second terminal.
+To use this program, you must run the two files in two terminals. First, execute the file Alice.py in one terminal, and then execute Bob.py in the second terminal.
